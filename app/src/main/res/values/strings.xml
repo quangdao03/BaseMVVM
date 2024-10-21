@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaseMVVM</string>
+
+    <string name="Grant_Permission">Grant Permission</string>
+    <string name="Please_grant_all_permissions">Please grant all permissions to access additional functionality.</string>
+    <string name="Go_to_setting">Go to setting</string>
+</resources>
